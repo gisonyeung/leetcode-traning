@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/gisonyeung/leetcode-traning/issues"
   },
-  "homepage": "https://github.com/gisonyeung/leetcode-traning#readme"
+  "homepage": "https://github.com/gisonyeung/leetcode-traning#readme",
+  "dependencies": {
+    "eslint": "^6.2.1"
+  }
 }
