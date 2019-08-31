@@ -25,8 +25,10 @@ var twoSum = function (nums, target) {
 
   for (i; i < len; i++) {
     curVal = nums[i];
-    if (numsMap[curVal] !== undefined) return [numsMap[curVal], i];
     
+    if (numsMap[curVal] !== undefined)
+      return [numsMap[curVal], i];
+
     numsMap[target - curVal] = i;
   }
 };
