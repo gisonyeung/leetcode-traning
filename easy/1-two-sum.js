@@ -6,10 +6,13 @@
  * 
  * @example
  * ```
- *  给定 nums = [2, 7, 11, 15], target = 9
- *  因为 nums[0] + nums[1] = 2 + 7 = 9
- *  所以返回 [0, 1]
+ * 给定 nums = [2, 7, 11, 15], target = 9
+ * 因为 nums[0] + nums[1] = 2 + 7 = 9
+ * 所以返回 [0, 1]
  * ```
+ * 
+ * @summary
+ * 一次遍历，将 (目标值 - 当前值) 作为哈希表下标使用保存到哈希表，下一个数判断当前哈希表以自身当前值为下标的值是否存在即可。
  */
 
 /**
@@ -25,7 +28,7 @@ var twoSum = function (nums, target) {
 
   for (i; i < len; i++) {
     curVal = nums[i];
-    
+
     if (numsMap[curVal] !== undefined)
       return [numsMap[curVal], i];
 
