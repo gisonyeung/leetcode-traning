@@ -77,7 +77,7 @@ function genSubjectContent(subjectInfos) {
 
   Object.keys(subjectInfos).forEach(level => {
     count += subjectInfos[level].length;
-    let subContent = `\n**${levelMap[level]}(${level})**:[${subjectInfos[level].length}]\n`;
+    let subContent = `\n**${levelMap[level]}(${level})**[${subjectInfos[level].length}]\n`;
 
     subjectInfos[level].forEach((s) => {
       let itemContent = `- ${s.orderNums}.${s.name}${s.tags.length ? `【${s.tags.join('|')}】` : ''}: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/${level}/${s.fileName}) [查看原题](${s.url})\n`;
