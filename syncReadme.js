@@ -52,6 +52,9 @@ function traverseFiles(dirPath) {
     res.push(fileInfo);
   });
 
+  // 按照题号排序
+  res.sort((a,b) => a.orderNums - b.orderNums);
+
   return res;
 }
 
