@@ -1,4 +1,5 @@
 /**
+ * @name 括号生成
  * @url https://leetcode-cn.com/problems/generate-parentheses/
  * @tags 字符串、回溯算法
  * @description

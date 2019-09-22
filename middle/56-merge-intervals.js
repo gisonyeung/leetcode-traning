@@ -1,4 +1,5 @@
 /**
+ * @name 合并区间
  * @url https://leetcode-cn.com/problems/merge-intervals/
  * @tags 排序、数组
  * @description
