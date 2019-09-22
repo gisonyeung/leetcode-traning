@@ -60,13 +60,15 @@ function traverseFiles(dirPath) {
  * @param {Object} subjectInfos 
  * @return {String}
  * ```
- * ### 简单(easy)
+ * 已刷题目总数：11
+ * #### 简单(easy)
  * - 1.两数之和【tags|tags】: [查看代码](github link) [查看原题](leetcode link)
  * ```
  */
 function genSubjectContent(subjectInfos) {
 
   let content = '';
+  let count = 0;
   const levelMap = {
     'easy': '简单',
     'middle': '中等',
@@ -74,7 +76,8 @@ function genSubjectContent(subjectInfos) {
   };
 
   Object.keys(subjectInfos).forEach(level => {
-    let subContent = `\n### ${levelMap[level]}(${level})\n`;
+    count += subjectInfos[level].length;
+    let subContent = `\n**${levelMap[level]}(${level})**:[${subjectInfos[level].length}]\n`;
 
     subjectInfos[level].forEach((s) => {
       let itemContent = `- ${s.orderNums}.${s.name}${s.tags.length ? `【${s.tags.join('|')}】` : ''}: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/${level}/${s.fileName}) [查看原题](${s.url})\n`;
@@ -83,6 +86,8 @@ function genSubjectContent(subjectInfos) {
 
     content += subContent;
   }); 
+
+  content = `已刷题目总数：${count}\n${content}`;
 
   return content;
 }
