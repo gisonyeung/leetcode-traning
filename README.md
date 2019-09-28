@@ -8,7 +8,7 @@
 - ...
 
 ## 已刷题目记录
-已刷题目总数：16
+已刷题目总数：17
 
 **简单(easy)**[6]
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -18,12 +18,13 @@
 - 169.求众数: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 198.打家劫舍【动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/198-house-robber.js) [查看原题](https://leetcode-cn.com/problems/house-robber/)
 
-**中等(middle)**[8]
+**中等(middle)**[9]
 - 3.无重复字符的最长子串【哈希表|双指针|字符串|Sliding Window】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 22.括号生成【字符串|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/22-generate-parentheses.js) [查看原题](https://leetcode-cn.com/problems/generate-parentheses/)
 - 39.组合总和【数组|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/39-combination-sum.js) [查看原题](https://leetcode-cn.com/problems/combination-sum/)
 - 56.合并区间【排序|数组】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/56-merge-intervals.js) [查看原题](https://leetcode-cn.com/problems/merge-intervals/)
 - 94.二叉树的中序遍历【栈|树|哈希表】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/94-binary-tree-inorder-traversa.js) [查看原题](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+- 102.二叉树的层次遍历【树|广度优先搜索】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/102-binary-tree-level-order-traversal.js) [查看原题](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 - 146.LRU缓存机制: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/146-lru-cache.js) [查看原题](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 - 215.数组中的第K个最大元素【堆|分治算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/215-kth-largest-element-in-an-array.js) [查看原题](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 - 240.搜索二维矩阵 II: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/240-search-a-2d-matrix-ii.js) [查看原题](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
