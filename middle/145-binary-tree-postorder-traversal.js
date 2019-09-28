@@ -2,6 +2,7 @@
  * @name 二叉树的后序遍历
  * @url https://leetcode-cn.com/problems/binary-tree-postorder-traversal/
  * @tags 栈、树
+ * @star
  * @description
  * 给定一个二叉树，返回它的 后序 遍历。
  * 

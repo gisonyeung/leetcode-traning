@@ -2,6 +2,7 @@
  * @name 合并区间
  * @url https://leetcode-cn.com/problems/merge-intervals/
  * @tags 排序、数组
+ * @star
  * @description
  * 给出一个区间的集合，请合并所有重叠的区间。
  * 

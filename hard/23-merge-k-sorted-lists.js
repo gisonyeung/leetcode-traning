@@ -2,6 +2,7 @@
  * @name 合并K个排序链表
  * @url https://leetcode-cn.com/problems/merge-k-sorted-lists/
  * @tags 堆、链表、分治算法
+ * @star
  * @description
  * 合并 k 个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。
  * 

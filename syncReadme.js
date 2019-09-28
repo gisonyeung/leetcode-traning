@@ -20,7 +20,7 @@ writeToReadme([
 /**
  * 同步遍历题目文件夹中的所有 js 文件，并解析内容生成对应数据结构
  * @param {String} dirPath
- * @return {Object} [{ fileName, url, name, tags, orderNums }, ...]
+ * @return {Object} [{ fileName, url, name, tags, orderNums, isStar }, ...]
  */
 function traverseFiles(dirPath) {
   const files = fs.readdirSync(dirPath);
@@ -35,6 +35,7 @@ function traverseFiles(dirPath) {
       name: '',
       tags: [],
       orderNums: filename.match(/^\d+/)[0],
+      isStar: false
     };
 
     let filePath = path.resolve(dirPath, filename);
@@ -48,6 +49,7 @@ function traverseFiles(dirPath) {
     if (url) fileInfo.url = url[1];
     if (name) fileInfo.name = name[1];
     if (tags) fileInfo.tags = tags[1].split('、');
+    fileInfo.isStar = content.indexOf('@star') >= 0;
 
     res.push(fileInfo);
   });
@@ -83,7 +85,7 @@ function genSubjectContent(subjectInfos) {
     let subContent = `\n**${levelMap[level]}(${level})**[${subjectInfos[level].length}]\n`;
 
     subjectInfos[level].forEach((s) => {
-      let itemContent = `- ${s.orderNums}.${s.name}${s.tags.length ? `【${s.tags.join('|')}】` : ''}: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/${level}/${s.fileName}) [查看原题](${s.url})\n`;
+      let itemContent = `- ${s.isStar ? '⭐' : ''}${s.orderNums}.${s.name}${s.tags.length ? `【${s.tags.join('|')}】` : ''}: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/${level}/${s.fileName}) [查看原题](${s.url})\n`;
       subContent += itemContent;
     });
 
