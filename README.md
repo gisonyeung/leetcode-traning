@@ -14,8 +14,8 @@
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 88.合并两个有序数组: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/88-merge-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/merge-sorted-array/)
 - 121.买卖股票的最佳时机: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/121-best-time-to-buy-and-sell-stock.js) [查看原题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
-- 136.只出现一次的数字: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/136-single-number.js) [查看原题](https://leetcode-cn.com/problems/single-number/)
-- 169.求众数: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
+- ⭐136.只出现一次的数字: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/136-single-number.js) [查看原题](https://leetcode-cn.com/problems/single-number/)
+- ⭐169.求众数: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 198.打家劫舍【动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/198-house-robber.js) [查看原题](https://leetcode-cn.com/problems/house-robber/)
 
 **中等(middle)**[11]
