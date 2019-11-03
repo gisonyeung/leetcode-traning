@@ -5,7 +5,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目记录
-已刷题目总数：21
+已刷题目总数：22
 
 **简单(easy)**[6]
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -29,7 +29,8 @@
 - ⭐215.数组中的第K个最大元素【堆|分治算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/215-kth-largest-element-in-an-array.js) [查看原题](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 - 240.搜索二维矩阵 II: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/240-search-a-2d-matrix-ii.js) [查看原题](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 
-**困难(hard)**[3]
+**困难(hard)**[4]
 - ⭐23.合并K个排序链表【堆|链表|分治算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/hard/23-merge-k-sorted-lists.js) [查看原题](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 - ⭐145.二叉树的后序遍历【栈|树】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/hard/145-binary-tree-postorder-traversal.js) [查看原题](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+- ⭐297.二叉树的序列化与反序列化【树|设计】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/hard/297-serialize-and-deserialize-binary-tree.js) [查看原题](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 - 887.鸡蛋掉落: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/hard/887-super-egg-drop.js) [查看原题](https://leetcode-cn.com/problems/super-egg-drop/)
