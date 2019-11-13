@@ -2,7 +2,6 @@
  * @name 正则表达式匹配
  * @url https://leetcode-cn.com/problems/regular-expression-matching/
  * @tags 字符串、动画规划、回溯算法
- * @star
  * @description
  * 你一个字符串 s 和一个字符规律 p，请你来实现一个支持 '.' 和 '*' 的正则表达式匹配。
  * 
@@ -59,6 +58,8 @@
  * @param {string} s
  * @param {string} p
  * @return {boolean}
+ * 144ms 32.16%
+ * 36.8mb 28.09%
  */
 var isMatch = function(s, p) {
   if (!p) return !s;
@@ -67,7 +68,10 @@ var isMatch = function(s, p) {
 
   if (p.length >= 2 && p[1] === '*') {
     return isMatch(s, p.substring(2)) || (isFirstMatch && isMatch(s.substring(1), p));
+  } else {
+    return isFirstMatch && isMatch(s.substring(1), p.substring(1));
   }
 };
+
 
 isMatch('aab', 'c*a*b');
