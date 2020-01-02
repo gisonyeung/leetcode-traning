@@ -27,7 +27,7 @@ function traverseFiles(dirPath) {
   const res = [];
 
   files.forEach((filename) => {
-    if (filename.indexOf('.js') == -1) return;
+    if (filename.indexOf('.js') === -1 && filename.indexOf('.cpp') === -1) return;
     
     let fileInfo = {
       fileName: filename,
@@ -35,7 +35,8 @@ function traverseFiles(dirPath) {
       name: '',
       tags: [],
       orderNums: filename.match(/^\d+/)[0],
-      isStar: false
+      isStar: false,
+      fileType: filename.match(/\.(\w+)$/)[1]
     };
 
     let filePath = path.resolve(dirPath, filename);
@@ -85,7 +86,7 @@ function genSubjectContent(subjectInfos) {
     let subContent = `\n**${levelMap[level]}(${level})**[${subjectInfos[level].length}]\n`;
 
     subjectInfos[level].forEach((s) => {
-      let itemContent = `- ${s.isStar ? '⭐' : ''}${s.orderNums}.${s.name}${s.tags.length ? `【${s.tags.join('|')}】` : ''}: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/${level}/${s.fileName}) [查看原题](${s.url})\n`;
+      let itemContent = `- ${s.isStar ? '⭐' : ''}${s.orderNums}.${s.name}${s.fileType === 'cpp' ? '[c++]' : ''}${s.tags.length ? `【${s.tags.join('|')}】` : ''}: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/${level}/${s.fileName}) [查看原题](${s.url})\n`;
       subContent += itemContent;
     });
 
