@@ -1,6 +1,7 @@
 /**
  * @name 鸡蛋掉落
  * @url https://leetcode-cn.com/problems/super-egg-drop/
+ * @star
  * @description
  * 你将获得 K 个鸡蛋，并可以使用一栋从 1 到 N  共有 N 层楼的建筑。
  * 每个蛋的功能都是一样的，如果一个蛋碎了，你就不能再把它掉下去。
