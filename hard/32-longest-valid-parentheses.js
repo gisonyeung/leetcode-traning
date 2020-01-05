@@ -1,5 +1,5 @@
 /**
- * @name 长有效括号
+ * @name 最长有效括号
  * @url https://leetcode-cn.com/problems/longest-valid-parentheses/
  * @tags 字符串、动态规划
  * @star
