@@ -59,6 +59,8 @@
  * @param {string} p
  * @return {boolean}
  * 贪心算法 自顶向下
+ * 100ms 98.71%
+ * 38.8mb 85.40%
  */
 var isMatch = function(s, p) {
   let i_star = -1, j_star = -1, i = 0, j = 0, n = s.length, m = p.length;
@@ -73,3 +75,4 @@ var isMatch = function(s, p) {
 };
 
 isMatch('aa', 'a');
+isMatch('abbc', 'a*c');
