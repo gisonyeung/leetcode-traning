@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/gisonyeung/leetcode-traning#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "eslint": "^6.2.1"
   }
 }

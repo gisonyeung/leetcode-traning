@@ -1,0 +1,11 @@
+/**
+ * @name {{translatedTitle}}
+ * @url https://leetcode-cn.com/problems/{{title}}/
+ * @tags {{tagName}}
+ * @description
+ * ```
+{{description}}
+ * ```
+ */
+
+{{code}}
