@@ -1,7 +1,7 @@
 /**
  * @name 不同路径
  * @url https://leetcode-cn.com/problems/unique-paths/
- * @tags 贪心算法、字符串、动态规划、回溯算法
+ * @tags 数组、动态规划
  * @star
  * @description
  * 一个机器人位于一个 m x n 网格的左上角 （起始点在下图中标记为“Start” ）。
