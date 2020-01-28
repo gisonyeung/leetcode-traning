@@ -44,7 +44,6 @@ var uniquePaths = function(m, n) {
   for (let i = 1; i < m; i++) {
     for (let j = 1; j < n; j++) {
       dp[i][j] = dp[i-1][j] + dp[i][j-1];
-      console.log('dp', dp);
     }
   }
 
