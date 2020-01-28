@@ -71,7 +71,6 @@ function genFile(fileMeta) {
   console.log(`'${fileMeta.filePath}' 生成成功`);
 }
 
-
 function fetchData(title) {
 
   return axios.request({
