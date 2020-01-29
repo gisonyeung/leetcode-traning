@@ -2,6 +2,7 @@
  * @name 编辑距离
  * @url https://leetcode-cn.com/problems/edit-distance/
  * @tags 字符串、动态规划
+ * @star
  * @description
  * ```
  * 给定两个单词 word1 和 word2，计算出将 word1 转换成 word2 所使用的最少操作数 。
