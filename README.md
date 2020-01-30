@@ -5,7 +5,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目记录
-已刷题目总数：36
+已刷题目总数：37
 
 **简单(easy)**[10]
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -19,7 +19,7 @@
 - ⭐169.求众数: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 198.打家劫舍【动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/198-house-robber.js) [查看原题](https://leetcode-cn.com/problems/house-robber/)
 
-**中等(middle)**[16]
+**中等(middle)**[17]
 - 3.无重复字符的最长子串【哈希表|双指针|字符串|Sliding Window】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - ⭐5.最长回文子串【字符串|动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 - 22.括号生成【字符串|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/22-generate-parentheses.js) [查看原题](https://leetcode-cn.com/problems/generate-parentheses/)
@@ -29,6 +29,7 @@
 - 63.不同路径2【数组|动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/63-unique-paths-ii.js) [查看原题](https://leetcode-cn.com/problems/unique-paths-ii/)
 - 64.最小路径和【数组|动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/64-minimum-path-sum.js) [查看原题](https://leetcode-cn.com/problems/unique-paths-ii/)
 - 75.颜色分类【排序|数组|双指针】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/75-sort-colors.js) [查看原题](https://leetcode-cn.com/problems/sort-colors/)
+- 91.解码方法【字符串|动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/91-decode-ways.js) [查看原题](https://leetcode-cn.com/problems/decode-ways/)
 - ⭐94.二叉树的中序遍历【栈|树|哈希表】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/94-binary-tree-inorder-traversa.js) [查看原题](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 - ⭐98.验证二叉搜索树【树|深度优先搜索】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/98-validate-binary-search-tree.js) [查看原题](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 - 102.二叉树的层次遍历【树|广度优先搜索】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/102-binary-tree-level-order-traversal.js) [查看原题](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
