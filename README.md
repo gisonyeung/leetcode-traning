@@ -5,13 +5,14 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目记录
-已刷题目总数：42
+已刷题目总数：44
 
-**简单(easy)**[11]
+**简单(easy)**[12]
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转[c++]: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/7-zheng-shu-fan-zhuan-by-leetcode.cpp) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 8.回文数[c++]: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/8-hui-wen-shu-by-leetcode.cpp) [查看原题](https://leetcode-cn.com/problems/palindrome-number/solution/hui-wen-shu-by-leetcode/)
 - 13.罗马数字转整数【数学|字符串】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/13-roman-to-integer.js) [查看原题](https://leetcode-cn.com/problems/roman-to-integer/)
+- 14.最长公共前缀【字符串】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/14-longest-common-prefix.js) [查看原题](https://leetcode-cn.com/problems/longest-common-prefix/)
 - 53.最大子序和【贪心算法|字符串|动态规划|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/53-maximum-subarray.js) [查看原题](https://leetcode-cn.com/problems/maximum-subarray/)
 - 70.爬楼梯【动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/70-climbing-stairs.js) [查看原题](https://leetcode-cn.com/problems/climbing-stairs/)
 - 88.合并两个有序数组: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/88-merge-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/merge-sorted-array/)
@@ -20,12 +21,13 @@
 - ⭐169.求众数: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 198.打家劫舍【动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/198-house-robber.js) [查看原题](https://leetcode-cn.com/problems/house-robber/)
 
-**中等(middle)**[20]
+**中等(middle)**[21]
 - 2.两数相加【链表|数学】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串【哈希表|双指针|字符串|Sliding Window】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - ⭐5.最长回文子串【字符串|动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 - 8.字符串转换整数 (atoi)【数学|字符串】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/8-string-to-integer-atoi.js) [查看原题](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 - 11.盛最多水的容器【数组|双指针】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/11-container-with-most-water.js) [查看原题](https://leetcode-cn.com/problems/container-with-most-water/)
+- 15.三数之和【数组|双指针】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/15-3sum.js) [查看原题](https://leetcode-cn.com/problems/3sum/)
 - 22.括号生成【字符串|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/22-generate-parentheses.js) [查看原题](https://leetcode-cn.com/problems/generate-parentheses/)
 - 39.组合总和【数组|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/39-combination-sum.js) [查看原题](https://leetcode-cn.com/problems/combination-sum/)
 - ⭐56.合并区间【排序|数组】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/56-merge-intervals.js) [查看原题](https://leetcode-cn.com/problems/merge-intervals/)
