@@ -5,7 +5,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目记录
-已刷题目总数：45
+已刷题目总数：46
 
 **简单(easy)**[12]
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -21,7 +21,7 @@
 - ⭐169.求众数: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 198.打家劫舍【动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/198-house-robber.js) [查看原题](https://leetcode-cn.com/problems/house-robber/)
 
-**中等(middle)**[22]
+**中等(middle)**[23]
 - 2.两数相加【链表|数学】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串【哈希表|双指针|字符串|Sliding Window】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - ⭐5.最长回文子串【字符串|动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -29,6 +29,7 @@
 - 11.盛最多水的容器【数组|双指针】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/11-container-with-most-water.js) [查看原题](https://leetcode-cn.com/problems/container-with-most-water/)
 - 15.三数之和【数组|双指针】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/15-3sum.js) [查看原题](https://leetcode-cn.com/problems/3sum/)
 - 17.电话号码的字母组合【字符串|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/17-letter-combinations-of-a-phone-number.js) [查看原题](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
+- 19.删除链表的倒数第N个节点【链表|双指针】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/19-remove-nth-node-from-end-of-list.js) [查看原题](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 - 22.括号生成【字符串|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/22-generate-parentheses.js) [查看原题](https://leetcode-cn.com/problems/generate-parentheses/)
 - 39.组合总和【数组|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/39-combination-sum.js) [查看原题](https://leetcode-cn.com/problems/combination-sum/)
 - ⭐56.合并区间【排序|数组】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/56-merge-intervals.js) [查看原题](https://leetcode-cn.com/problems/merge-intervals/)
