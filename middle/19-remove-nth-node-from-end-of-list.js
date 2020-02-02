@@ -41,6 +41,8 @@ function ListNode(val) {
  * @param {ListNode} head
  * @param {number} n
  * @return {ListNode}
+ * 68ms 71.36%
+ * 34mb 57.39%
  */
 var removeNthFromEnd = function(head, n) {
   let dummy = new ListNode(0);
