@@ -5,15 +5,16 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目记录
-已刷题目总数：47
+已刷题目总数：48
 
-**简单(easy)**[13]
+**简单(easy)**[14]
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转[c++]: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/7-zheng-shu-fan-zhuan-by-leetcode.cpp) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 8.回文数[c++]: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/8-hui-wen-shu-by-leetcode.cpp) [查看原题](https://leetcode-cn.com/problems/palindrome-number/solution/hui-wen-shu-by-leetcode/)
 - 13.罗马数字转整数【数学|字符串】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/13-roman-to-integer.js) [查看原题](https://leetcode-cn.com/problems/roman-to-integer/)
 - 14.最长公共前缀【字符串】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/14-longest-common-prefix.js) [查看原题](https://leetcode-cn.com/problems/longest-common-prefix/)
 - 20.有效的括号【栈|字符串】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/20-valid-parentheses.js) [查看原题](https://leetcode-cn.com/problems/valid-parentheses/)
+- 21.合并两个有序链表【链表】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/21-merge-two-sorted-lists.js) [查看原题](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 - 53.最大子序和【贪心算法|字符串|动态规划|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/53-maximum-subarray.js) [查看原题](https://leetcode-cn.com/problems/maximum-subarray/)
 - 70.爬楼梯【动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/70-climbing-stairs.js) [查看原题](https://leetcode-cn.com/problems/climbing-stairs/)
 - 88.合并两个有序数组: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/88-merge-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/merge-sorted-array/)
