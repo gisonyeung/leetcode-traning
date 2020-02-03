@@ -66,7 +66,11 @@
 
 ## 日期进度记录
 
-### 2020-02-02 [9]
+### 2020-02-03 [1]
+
+1. 20:33：[28.实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)(easy)
+
+### 2020-02-02 [8]
 
 1. 01:39：[13.罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)(easy)
 2. 13:54：[14.最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)(easy)
@@ -76,7 +80,6 @@
 6. 15:52：[20.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)(easy)
 7. 16:08：[21.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)(easy)
 8. 16:20：[26.删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)(easy)
-9. 16:41：[28.实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)(easy)
 
 ### 2020-02-01 [3]
 

@@ -1,7 +1,7 @@
 /**
  * @name 实现 strStr()
  * @url https://leetcode-cn.com/problems/implement-strstr/
- * @date 2020-02-02 16:41
+ * @date 2020-02-03 20:33
  * @tags 双指针、字符串
  * @description
  * ```
