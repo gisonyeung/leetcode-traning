@@ -146,7 +146,7 @@ function genRecordContent(subjectInfos) {
 
     dateObj[key].sort((a,b) => a.dateForSort - b.dateForSort);
     dateObj[key].forEach((s,index) => {
-      subContent += `${index + 1}. ${s.dateForTime}：[${s.orderNums}.${s.name}](${s.url})(${s.level})\n`;
+      subContent += `${index + 1}. ${s.dateForTime}：[${s.orderNums}.${s.name}](https://github.com/gisonyeung/leetcode-traning/blob/master/${s.level}/${s.fileName})(${s.level})\n`;
     });
 
     content += subContent;
