@@ -22,6 +22,7 @@ async function init(url) {
       description: filterHTMLTag(data.translatedContent),
       tagName: genTagName(data.topicTags),
       code: getCodeSnippets('javascript', data.codeSnippets),
+      date: dateFormat(Date.now(), 'YYYY-MM-DD hh:mm')
     }
   };
 
@@ -69,6 +70,25 @@ function genFile(fileMeta) {
 
   fs.writeFileSync(fileMeta.filePath, template, { encoding: 'utf-8' });
   console.log(`'${fileMeta.filePath}' 生成成功`);
+}
+
+function dateFormat(dateString, fmt) {
+  let _Date = new Date(dateString);
+
+  let o = {
+    'M+': _Date.getMonth() + 1, //月份 
+    'D+': _Date.getDate(), //日 
+    'h+': _Date.getHours(), //小时 
+    'm+': _Date.getMinutes(), //分 
+    's+': _Date.getSeconds(), //秒 
+    'q+': Math.floor((_Date.getMonth() + 3) / 3), //季度 
+    'S': _Date.getMilliseconds() //毫秒 
+  };
+  if (/(Y+)/.test(fmt)) fmt = fmt.replace(RegExp.$1, (_Date.getFullYear() + '').substr(4 - RegExp.$1.length));
+  for (let k in o)
+    if (new RegExp('(' + k + ')').test(fmt)) fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (('00' + o[k]).substr(('' + o[k]).length)));
+    
+  return fmt;
 }
 
 function fetchData(title) {
