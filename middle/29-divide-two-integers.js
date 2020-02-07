@@ -37,6 +37,8 @@ let INT_MIN = 1 << 31;
  * @param {number} dividend
  * @param {number} divisor
  * @return {number}
+ * 72ms 97.07%
+ * 34.7mb 93.25%
  */
 var divide = function(dividend, divisor) {
   // 判断符号，1 为负数，0 为正数
@@ -47,8 +49,6 @@ var divide = function(dividend, divisor) {
   divisor = divisor > 0 ? -divisor : divisor;
 
   let times = binarySearchMatchDivisor(dividend, divisor);
-
-  console.log(times);
 
   let output = 0;
   for (let i = 0; i < times.length; i++) {
@@ -73,9 +73,6 @@ function binarySearchMatchDivisor(dividend, divisor) {
   // 二分查找
   while (timesMax !== timesMin + 1) {
     let mid = (timesMax + timesMin) >> 1;
-    console.log(`timesMax: ${timesMax}`);
-    console.log(`timesMin: ${timesMin}`);
-    console.log(`mid: ${mid}`);
 
     // 确保 divisor << mid > -1 << 31
     if (divisor < (-1 << (31 - mid))) {
