@@ -28,6 +28,8 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
+ * 64ms 80.92%
+ * 35.2mb 54.78%
  */
 var searchRange = function(nums, target) {
   let left = binarySearchLeftBound(nums, target);
