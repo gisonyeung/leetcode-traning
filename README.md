@@ -5,7 +5,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目记录
-已刷题目总数：57
+已刷题目总数：58
 
 **简单(easy)**[17]
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -26,7 +26,7 @@
 - ⭐169.求众数: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 198.打家劫舍【动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/198-house-robber.js) [查看原题](https://leetcode-cn.com/problems/house-robber/)
 
-**中等(middle)**[27]
+**中等(middle)**[28]
 - 2.两数相加【链表|数学】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串【哈希表|双指针|字符串|Sliding Window】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - ⭐5.最长回文子串【字符串|动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -41,6 +41,7 @@
 - 34.在排序数组中查找元素的第一个和最后一个位置【数组|二分查找】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/34-find-first-and-last-position-of-element-in-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - 36.有效的数独【哈希表】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/36-valid-sudoku.js) [查看原题](https://leetcode-cn.com/problems/valid-sudoku/)
 - 39.组合总和【数组|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/39-combination-sum.js) [查看原题](https://leetcode-cn.com/problems/combination-sum/)
+- 46.全排列【回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/46-permutations.js) [查看原题](https://leetcode-cn.com/problems/permutations/)
 - ⭐56.合并区间【排序|数组】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/56-merge-intervals.js) [查看原题](https://leetcode-cn.com/problems/merge-intervals/)
 - ⭐62.不同路径【数组|动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/62-unique-paths.js) [查看原题](https://leetcode-cn.com/problems/unique-paths/)
 - 63.不同路径2【数组|动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/63-unique-paths-ii.js) [查看原题](https://leetcode-cn.com/problems/unique-paths-ii/)
@@ -73,10 +74,11 @@
 
 ## 日期进度记录
 
-### 2020-02-09 [2]
+### 2020-02-09 [3]
 
 1. 16:04：[41.缺失的第一个正数](https://github.com/gisonyeung/leetcode-traning/blob/master/hard/41-first-missing-positive.js)(hard)
 2. 18:38：[42.接雨水](https://github.com/gisonyeung/leetcode-traning/blob/master/hard/42-trapping-rain-water.js)(hard)
+3. 23:20：[46.全排列](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/46-permutations.js)(middle)
 
 ### 2020-02-08 [3]
 
