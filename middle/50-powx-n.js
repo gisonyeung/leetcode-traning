@@ -39,6 +39,8 @@
  * @param {number} x
  * @param {number} n
  * @return {number}
+ * 60ms 91.47%
+ * 33.7mb 89.00%
  */
 var myPow = function(x, n) {
   let N = n;
