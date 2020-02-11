@@ -5,9 +5,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目记录
-已刷题目总数：63
+已刷题目总数：64
 
-**简单(easy)**[17]
+**简单(easy)**[18]
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转[c++]: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/7-zheng-shu-fan-zhuan-by-leetcode.cpp) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 8.回文数[c++]: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/8-hui-wen-shu-by-leetcode.cpp) [查看原题](https://leetcode-cn.com/problems/palindrome-number/solution/hui-wen-shu-by-leetcode/)
@@ -19,6 +19,7 @@
 - 28.实现 strStr()【双指针|字符串】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/28-implement-strstr.js) [查看原题](https://leetcode-cn.com/problems/implement-strstr/)
 - 38.外观数列【字符串】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/38-count-and-say.js) [查看原题](https://leetcode-cn.com/problems/count-and-say/)
 - 53.最大子序和【贪心算法|字符串|动态规划|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/53-maximum-subarray.js) [查看原题](https://leetcode-cn.com/problems/maximum-subarray/)
+- 66.加一【数组】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/66-plus-one.js) [查看原题](https://leetcode-cn.com/problems/plus-one/)
 - 70.爬楼梯【动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/70-climbing-stairs.js) [查看原题](https://leetcode-cn.com/problems/climbing-stairs/)
 - 88.合并两个有序数组: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/88-merge-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/merge-sorted-array/)
 - 121.买卖股票的最佳时机: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/121-best-time-to-buy-and-sell-stock.js) [查看原题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
@@ -79,9 +80,10 @@
 
 ## 日期进度记录
 
-### 2020-02-11 [1]
+### 2020-02-11 [2]
 
 1. 12:23：[55.跳跃游戏](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/55-jump-game.js)(middle)
+2. 20:50：[66.加一](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/66-plus-one.js)(easy)
 
 ### 2020-02-10 [3]
 
