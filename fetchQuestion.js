@@ -9,7 +9,7 @@ const fs = require('fs');
 init(url);
 
 async function init(url) {
-  let title = url.match(/problems\/([^/]+)\//)[1];
+  let title = url.match(/problems\/([^/]+)\/?/)[1];
   let res = await fetchData(title);
   let data = res.data.data.question;
 
