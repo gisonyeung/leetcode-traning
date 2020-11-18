@@ -5,9 +5,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目记录
-已刷题目总数：66
+已刷题目总数：67
 
-**简单(easy)**[19]
+**简单(easy)**[20]
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转[c++]: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/7-zheng-shu-fan-zhuan-by-leetcode.cpp) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 8.回文数[c++]: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/8-hui-wen-shu-by-leetcode.cpp) [查看原题](https://leetcode-cn.com/problems/palindrome-number/solution/hui-wen-shu-by-leetcode/)
@@ -20,6 +20,7 @@
 - 38.外观数列【字符串】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/38-count-and-say.js) [查看原题](https://leetcode-cn.com/problems/count-and-say/)
 - 53.最大子序和【贪心算法|字符串|动态规划|回溯算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/53-maximum-subarray.js) [查看原题](https://leetcode-cn.com/problems/maximum-subarray/)
 - 66.加一【数组】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/66-plus-one.js) [查看原题](https://leetcode-cn.com/problems/plus-one/)
+- 67.二进制求和【数学|字符串】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/67-add-binary.js) [查看原题](https://leetcode-cn.com/problems/add-binary/)
 - 69.x 的平方根【数学|二分查找】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/69-sqrtx.js) [查看原题](https://leetcode-cn.com/problems/sqrtx/)
 - 70.爬楼梯【动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/70-climbing-stairs.js) [查看原题](https://leetcode-cn.com/problems/climbing-stairs/)
 - 88.合并两个有序数组: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/88-merge-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/merge-sorted-array/)
@@ -81,6 +82,10 @@
 
 
 ## 日期进度记录
+
+### 2020-11-19 [1]
+
+1. 00:58：[67.二进制求和](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/67-add-binary.js)(easy)
 
 ### 2020-02-24 [1]
 
