@@ -2,6 +2,7 @@
  * @name 课程表 II
  * @url https://leetcode-cn.com/problems/course-schedule-ii/
  * @date 2021-02-11 10:39
+ * @star
  * @tags 深度优先搜索、广度优先搜索、图、拓扑排序
  * @description
  * ```
