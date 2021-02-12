@@ -153,7 +153,7 @@ var findOrder = function(numCourses, prerequisites) {
     result.push(course);
 
     let preCourses = edges[course] || [];
-    // 测试结果：for 循环效率比 for of 快 50 倍
+    // for 循环效率比 for of 快 50 倍
     for (let i = 0; i < preCourses.length; i++) {
       const preCourse = preCourses[i];
       indeg[preCourse] = indeg[preCourse] - 1;
