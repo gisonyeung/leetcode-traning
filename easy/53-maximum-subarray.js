@@ -1,6 +1,7 @@
 /**
  * @name 最大子序和
  * @url https://leetcode-cn.com/problems/maximum-subarray/
+ * @date 2020-01-27 18:50
  * @tags 贪心算法、字符串、动态规划、回溯算法
  * @description
  * 给定一个整数数组 nums ，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。

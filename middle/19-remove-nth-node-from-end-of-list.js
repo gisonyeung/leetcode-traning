@@ -1,6 +1,7 @@
 /**
  * @name 删除链表的倒数第N个节点
  * @url https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
+ * @date 2020-02-02 15:18
  * @tags 链表、双指针
  * @description
  * ```

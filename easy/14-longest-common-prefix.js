@@ -1,6 +1,7 @@
 /**
  * @name 最长公共前缀
  * @url https://leetcode-cn.com/problems/longest-common-prefix/
+ * @date 2020-02-02 13:54
  * @tags 字符串
  * @description
  * ```

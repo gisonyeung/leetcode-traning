@@ -1,6 +1,7 @@
 /**
  * @name 删除排序数组中的重复项
  * @url https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+ * @date 2020-02-02 16:20
  * @tags 数组、双指针
  * @description
  * ```
