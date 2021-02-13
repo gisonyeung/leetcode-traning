@@ -5,9 +5,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目记录
-已刷题目总数：69
+已刷题目总数：70
 
-**简单(easy)**[21]
+**简单(easy)**[22]
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转[c++]: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/7-zheng-shu-fan-zhuan-by-leetcode.cpp) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 8.回文数[c++]: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/8-hui-wen-shu-by-leetcode.cpp) [查看原题](https://leetcode-cn.com/problems/palindrome-number/solution/hui-wen-shu-by-leetcode/)
@@ -29,6 +29,7 @@
 - ⭐169.求众数: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 198.打家劫舍【动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/198-house-robber.js) [查看原题](https://leetcode-cn.com/problems/house-robber/)
 - 231.2的幂【位运算|数学】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/231-power-of-two.js) [查看原题](https://leetcode-cn.com/problems/power-of-two/)
+- ⭐789.数据流中的第 K 大元素【堆|设计】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/789-kth-largest-element-in-a-stream.js) [查看原题](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
 
 **中等(middle)**[35]
 - 2.两数相加【链表|数学】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
@@ -84,6 +85,10 @@
 
 
 ## 日期进度记录
+
+### 2021-02-13 [1]
+
+1. 11:48：[789.数据流中的第 K 大元素](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/789-kth-largest-element-in-a-stream.js)(easy)
 
 ### 2021-02-11 [1]
 
