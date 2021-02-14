@@ -5,7 +5,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目记录
-已刷题目总数：70
+已刷题目总数：71
 
 **简单(easy)**[22]
 - 1.两数之和: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -31,7 +31,7 @@
 - 231.2的幂【位运算|数学】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/231-power-of-two.js) [查看原题](https://leetcode-cn.com/problems/power-of-two/)
 - ⭐789.数据流中的第 K 大元素【堆|设计】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/easy/789-kth-largest-element-in-a-stream.js) [查看原题](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
 
-**中等(middle)**[35]
+**中等(middle)**[36]
 - 2.两数相加【链表|数学】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串【哈希表|双指针|字符串|Sliding Window】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - ⭐5.最长回文子串【字符串|动态规划】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -67,6 +67,7 @@
 - ⭐210.课程表 II【深度优先搜索|广度优先搜索|图|拓扑排序】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/210-course-schedule-ii.js) [查看原题](https://leetcode-cn.com/problems/course-schedule-ii/)
 - ⭐215.数组中的第K个最大元素【堆|分治算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/215-kth-largest-element-in-an-array.js) [查看原题](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 - 240.搜索二维矩阵 II: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/240-search-a-2d-matrix-ii.js) [查看原题](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
+- 820.找到最终的安全状态【深度优先搜索|图】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/820-find-eventual-safe-states.js) [查看原题](https://leetcode-cn.com/problems/find-eventual-safe-states/)
 
 **困难(hard)**[13]
 - ⭐4.寻找两个有序数组的中位数【数组|二分查找|分治算法】: [查看代码](https://github.com/gisonyeung/leetcode-traning/blob/master/hard/4-median-of-two-sorted-arrays.js) [查看原题](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
@@ -85,6 +86,10 @@
 
 
 ## 日期进度记录
+
+### 2021-02-14 [1]
+
+1. 11:06：[820.找到最终的安全状态](https://github.com/gisonyeung/leetcode-traning/blob/master/middle/820-find-eventual-safe-states.js)(middle)
 
 ### 2021-02-13 [1]
 
